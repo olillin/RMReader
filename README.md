@@ -2,6 +2,8 @@
 
 Read and analyze the packet timestamps of `.tmcpr` [Replay Mod](https://www.replaymod.com/) Recordings.
 
+See also [RMFixer](https://github.com/olillin/RMFixer).
+
 ## Output files
 
 **RMReader** creates several files in the current directory as its output.
